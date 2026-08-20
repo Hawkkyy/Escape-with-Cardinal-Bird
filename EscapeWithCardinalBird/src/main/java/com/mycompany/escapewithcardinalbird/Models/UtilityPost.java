@@ -8,6 +8,6 @@ package com.mycompany.escapewithcardinalbird.Models;
  *
  * @author LENOVO
  */
-public class Obstacle {
+public class UtilityPost {
     
 }
